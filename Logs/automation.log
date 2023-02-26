@@ -1,0 +1,64 @@
+26/02/2023 01:09:00 PM: INFO: xdist worker is: gw0
+26/02/2023 01:09:00 PM: INFO: ====== WebDriver manager ======
+26/02/2023 01:09:00 PM: INFO: xdist worker is: gw1
+26/02/2023 01:09:00 PM: INFO: ====== WebDriver manager ======
+26/02/2023 01:09:01 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+26/02/2023 01:09:01 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+26/02/2023 01:09:01 PM: INFO: Driver [C:\Users\sbenhamou\.wdm\gw1\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+26/02/2023 01:09:01 PM: INFO: Driver [C:\Users\sbenhamou\.wdm\gw0\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+26/02/2023 01:09:03 PM: INFO: **************** Verifiying Login Page ****************
+26/02/2023 01:09:03 PM: INFO: **************** Test_001_Login ****************
+26/02/2023 01:09:03 PM: INFO: **************** Verifiying Home Page Title ****************
+26/02/2023 01:09:05 PM: INFO: **************** Home Page Title is passed ****************
+26/02/2023 01:09:09 PM: INFO: **************** Login Page is passed ****************
+26/02/2023 01:09:11 PM: INFO: xdist worker is: gw1
+26/02/2023 01:09:11 PM: INFO: ====== WebDriver manager ======
+26/02/2023 01:09:11 PM: INFO: xdist worker is: gw0
+26/02/2023 01:09:11 PM: INFO: ====== WebDriver manager ======
+26/02/2023 01:09:11 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+26/02/2023 01:09:11 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+26/02/2023 01:09:11 PM: INFO: Driver [C:\Users\sbenhamou\.wdm\gw1\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+26/02/2023 01:09:13 PM: INFO: **************** Verifiying Login Page ****************
+26/02/2023 01:09:13 PM: INFO: **************** Test_001_Login ****************
+26/02/2023 01:09:13 PM: INFO: **************** Verifiying Home Page Title ****************
+26/02/2023 01:09:15 PM: INFO: **************** Home Page Title is passed ****************
+26/02/2023 01:09:18 PM: INFO: **************** Login Page is passed ****************
+26/02/2023 01:09:19 PM: INFO: ====== WebDriver manager ======
+26/02/2023 01:09:20 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+26/02/2023 01:09:21 PM: INFO: Driver [C:\Users\sbenhamou\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+26/02/2023 01:09:22 PM: INFO: ************* Test_003_AddCustomer **********
+26/02/2023 01:09:27 PM: INFO: ************* Login succesful **********
+26/02/2023 01:09:27 PM: INFO: ******* Starting Add Customer Test **********
+26/02/2023 01:09:30 PM: INFO: ************* Providing customer info **********
+26/02/2023 01:09:32 PM: INFO: ************* Saving customer info **********
+26/02/2023 01:09:32 PM: INFO: ********* Add customer validation started *****************
+26/02/2023 01:09:32 PM: INFO: ********* Add customer Test Passed *********
+26/02/2023 01:09:33 PM: INFO: ******* Ending Add customer test **********
+26/02/2023 01:09:33 PM: INFO: ====== WebDriver manager ======
+26/02/2023 01:09:33 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+26/02/2023 01:09:34 PM: INFO: Driver [C:\Users\sbenhamou\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+26/02/2023 01:09:35 PM: INFO: **************** Test_001_Login ****************
+26/02/2023 01:09:35 PM: INFO: **************** Verifiying Home Page Title ****************
+26/02/2023 01:09:37 PM: INFO: **************** Home Page Title is passed ****************
+26/02/2023 01:09:38 PM: INFO: ====== WebDriver manager ======
+26/02/2023 01:09:38 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+26/02/2023 01:09:39 PM: INFO: Driver [C:\Users\sbenhamou\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+26/02/2023 01:09:40 PM: INFO: **************** Verifiying Login Page ****************
+26/02/2023 01:09:46 PM: INFO: **************** Login Page is passed ****************
+26/02/2023 01:09:48 PM: INFO: ====== WebDriver manager ======
+26/02/2023 01:09:48 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+26/02/2023 01:09:49 PM: INFO: Driver [C:\Users\sbenhamou\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+26/02/2023 01:09:50 PM: INFO: ************* Test_003_AddCustomer **********
+26/02/2023 01:09:55 PM: INFO: ************* Login succesful **********
+26/02/2023 01:09:55 PM: INFO: ******* Starting Add Customer Test **********
+26/02/2023 01:09:58 PM: INFO: ************* Providing customer info **********
+26/02/2023 01:10:00 PM: INFO: ************* Saving customer info **********
+26/02/2023 01:10:00 PM: INFO: ********* Add customer validation started *****************
+26/02/2023 01:10:01 PM: INFO: ********* Add customer Test Passed *********
+26/02/2023 01:10:01 PM: INFO: ******* Ending Add customer test **********
+26/02/2023 01:10:01 PM: INFO: ====== WebDriver manager ======
+26/02/2023 01:10:01 PM: INFO: Get LATEST chromedriver version for google-chrome 110.0.5481
+26/02/2023 01:10:02 PM: INFO: Driver [C:\Users\sbenhamou\.wdm\drivers\chromedriver\win32\110.0.5481\chromedriver.exe] found in cache
+26/02/2023 01:10:03 PM: INFO: **************** Test_001_Login ****************
+26/02/2023 01:10:03 PM: INFO: **************** Verifiying Home Page Title ****************
+26/02/2023 01:10:05 PM: INFO: **************** Home Page Title is passed ****************

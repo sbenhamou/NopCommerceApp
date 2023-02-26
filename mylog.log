@@ -1,0 +1,155 @@
+2023-02-07 21:50:22,979 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.address`.
+2023-02-07 21:50:22,984 - faker.factory - DEBUG - Provider `faker.providers.address` has been localized to `en_US`.
+2023-02-07 21:50:22,988 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.automotive`.
+2023-02-07 21:50:22,991 - faker.factory - DEBUG - Provider `faker.providers.automotive` has been localized to `en_US`.
+2023-02-07 21:50:22,992 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.bank`.
+2023-02-07 21:50:22,994 - faker.factory - DEBUG - Specified locale `en_US` is not available for provider `faker.providers.bank`. Locale reset to `en_GB` for this provider.
+2023-02-07 21:50:22,998 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.barcode`.
+2023-02-07 21:50:22,999 - faker.factory - DEBUG - Provider `faker.providers.barcode` has been localized to `en_US`.
+2023-02-07 21:50:23,002 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.color`.
+2023-02-07 21:50:23,004 - faker.factory - DEBUG - Provider `faker.providers.color` has been localized to `en_US`.
+2023-02-07 21:50:23,005 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.company`.
+2023-02-07 21:50:23,008 - faker.factory - DEBUG - Provider `faker.providers.company` has been localized to `en_US`.
+2023-02-07 21:50:23,009 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.credit_card`.
+2023-02-07 21:50:23,010 - faker.factory - DEBUG - Provider `faker.providers.credit_card` has been localized to `en_US`.
+2023-02-07 21:50:23,010 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.currency`.
+2023-02-07 21:50:23,013 - faker.factory - DEBUG - Provider `faker.providers.currency` has been localized to `en_US`.
+2023-02-07 21:50:23,013 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.date_time`.
+2023-02-07 21:50:23,016 - faker.factory - DEBUG - Provider `faker.providers.date_time` has been localized to `en_US`.
+2023-02-07 21:50:23,017 - faker.factory - DEBUG - Provider `faker.providers.file` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2023-02-07 21:50:23,018 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.geo`.
+2023-02-07 21:50:23,019 - faker.factory - DEBUG - Provider `faker.providers.geo` has been localized to `en_US`.
+2023-02-07 21:50:23,020 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.internet`.
+2023-02-07 21:50:23,024 - faker.factory - DEBUG - Provider `faker.providers.internet` has been localized to `en_US`.
+2023-02-07 21:50:23,024 - faker.factory - DEBUG - Provider `faker.providers.isbn` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2023-02-07 21:50:23,025 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.job`.
+2023-02-07 21:50:23,027 - faker.factory - DEBUG - Provider `faker.providers.job` has been localized to `en_US`.
+2023-02-07 21:50:23,028 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.lorem`.
+2023-02-07 21:50:23,030 - faker.factory - DEBUG - Provider `faker.providers.lorem` has been localized to `en_US`.
+2023-02-07 21:50:23,033 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.misc`.
+2023-02-07 21:50:23,033 - faker.factory - DEBUG - Provider `faker.providers.misc` has been localized to `en_US`.
+2023-02-07 21:50:23,034 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.person`.
+2023-02-07 21:50:23,039 - faker.factory - DEBUG - Provider `faker.providers.person` has been localized to `en_US`.
+2023-02-07 21:50:23,043 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.phone_number`.
+2023-02-07 21:50:23,048 - faker.factory - DEBUG - Provider `faker.providers.phone_number` has been localized to `en_US`.
+2023-02-07 21:50:23,049 - faker.factory - DEBUG - Provider `faker.providers.profile` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2023-02-07 21:50:23,049 - faker.factory - DEBUG - Provider `faker.providers.python` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2023-02-07 21:50:23,049 - faker.factory - DEBUG - Looking for locale `en_US` in provider `faker.providers.ssn`.
+2023-02-07 21:50:23,054 - faker.factory - DEBUG - Provider `faker.providers.ssn` has been localized to `en_US`.
+2023-02-07 21:50:23,055 - faker.factory - DEBUG - Provider `faker.providers.user_agent` does not feature localization. Specified locale `en_US` is not utilized for this provider.
+2023-02-07 21:50:23,055 - WDM - INFO - ====== WebDriver manager ======
+2023-02-07 21:50:23,430 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-07 21:50:23,432 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): chromedriver.storage.googleapis.com:443
+2023-02-07 21:50:23,673 - urllib3.connectionpool - DEBUG - https://chromedriver.storage.googleapis.com:443 "GET /LATEST_RELEASE_109.0.5414 HTTP/1.1" 200 13
+2023-02-07 21:50:24,104 - WDM - INFO - Driver [C:\Users\sbenhamou.sephira\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-07 21:50:24,619 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50968/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}}
+2023-02-07 21:50:24,621 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:50968
+2023-02-07 21:50:25,115 - urllib3.connectionpool - DEBUG - http://localhost:50968 "POST /session HTTP/1.1" 200 777
+2023-02-07 21:50:25,116 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"109.0.5414.120","chrome":{"chromedriverVersion":"109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172})","userDataDir":"C:\\Program Files (x86)\\scoped_dir32048_2051193150"},"goog:chromeOptions":{"debuggerAddress":"localhost:50971"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:virtualAuthenticators":true},"sessionId":"10524f935b00e4db24979a2a40752891"}} | headers=HTTPHeaderDict({'Content-Length': '777', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:25,116 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:25,116 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50968/session/10524f935b00e4db24979a2a40752891/window/maximize {}
+2023-02-07 21:50:25,240 - urllib3.connectionpool - DEBUG - http://localhost:50968 "POST /session/10524f935b00e4db24979a2a40752891/window/maximize HTTP/1.1" 200 51
+2023-02-07 21:50:25,241 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"height":832,"width":1552,"x":-8,"y":-8}} | headers=HTTPHeaderDict({'Content-Length': '51', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:25,242 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:25,242 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50968/session/10524f935b00e4db24979a2a40752891/timeouts {"implicit": 10000}
+2023-02-07 21:50:25,246 - urllib3.connectionpool - DEBUG - http://localhost:50968 "POST /session/10524f935b00e4db24979a2a40752891/timeouts HTTP/1.1" 200 14
+2023-02-07 21:50:25,247 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:25,247 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:25,247 - root - INFO - **************** Test_001_Login ****************
+2023-02-07 21:50:25,248 - root - INFO - **************** Verifiying Home Page Title ****************
+2023-02-07 21:50:25,248 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50968/session/10524f935b00e4db24979a2a40752891/url {"url": "https://admin-demo.nopcommerce.com/"}
+2023-02-07 21:50:27,712 - urllib3.connectionpool - DEBUG - http://localhost:50968 "POST /session/10524f935b00e4db24979a2a40752891/url HTTP/1.1" 200 14
+2023-02-07 21:50:27,712 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:27,712 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:27,712 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://localhost:50968/session/10524f935b00e4db24979a2a40752891/title {}
+2023-02-07 21:50:27,717 - urllib3.connectionpool - DEBUG - http://localhost:50968 "GET /session/10524f935b00e4db24979a2a40752891/title HTTP/1.1" 200 29
+2023-02-07 21:50:27,717 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":"Your store. Login"} | headers=HTTPHeaderDict({'Content-Length': '29', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:27,718 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:27,718 - root - INFO - **************** Home Page Title is passed ****************
+2023-02-07 21:50:27,718 - selenium.webdriver.remote.remote_connection - DEBUG - DELETE http://localhost:50968/session/10524f935b00e4db24979a2a40752891 {}
+2023-02-07 21:50:27,745 - urllib3.connectionpool - DEBUG - http://localhost:50968 "DELETE /session/10524f935b00e4db24979a2a40752891 HTTP/1.1" 200 14
+2023-02-07 21:50:27,745 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:27,746 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:29,803 - WDM - INFO - ====== WebDriver manager ======
+2023-02-07 21:50:30,214 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-07 21:50:30,216 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): chromedriver.storage.googleapis.com:443
+2023-02-07 21:50:30,441 - urllib3.connectionpool - DEBUG - https://chromedriver.storage.googleapis.com:443 "GET /LATEST_RELEASE_109.0.5414 HTTP/1.1" 200 13
+2023-02-07 21:50:30,872 - WDM - INFO - Driver [C:\Users\sbenhamou.sephira\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-07 21:50:31,389 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "pageLoadStrategy": "normal", "goog:chromeOptions": {"extensions": [], "args": []}}}}
+2023-02-07 21:50:31,390 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:50986
+2023-02-07 21:50:31,976 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session HTTP/1.1" 200 776
+2023-02-07 21:50:31,976 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"109.0.5414.120","chrome":{"chromedriverVersion":"109.0.5414.74 (e7c5703604daa9cc128ccf5a5d3e993513758913-refs/branch-heads/5414@{#1172})","userDataDir":"C:\\Program Files (x86)\\scoped_dir87296_851437761"},"goog:chromeOptions":{"debuggerAddress":"localhost:50989"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:virtualAuthenticators":true},"sessionId":"033d954f2f4f50671e93c256a945994c"}} | headers=HTTPHeaderDict({'Content-Length': '776', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:31,976 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:31,976 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/window/maximize {}
+2023-02-07 21:50:32,103 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/window/maximize HTTP/1.1" 200 51
+2023-02-07 21:50:32,103 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"height":832,"width":1552,"x":-8,"y":-8}} | headers=HTTPHeaderDict({'Content-Length': '51', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:32,103 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:32,103 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/timeouts {"implicit": 10000}
+2023-02-07 21:50:32,106 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/timeouts HTTP/1.1" 200 14
+2023-02-07 21:50:32,107 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:32,107 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:32,108 - root - INFO - **************** Verifiying Login Page ****************
+2023-02-07 21:50:32,108 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/url {"url": "https://admin-demo.nopcommerce.com/"}
+2023-02-07 21:50:34,763 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/url HTTP/1.1" 200 14
+2023-02-07 21:50:34,763 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,763 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,763 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element {"using": "css selector", "value": "[id=\"Email\"]"}
+2023-02-07 21:50:34,772 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element HTTP/1.1" 200 88
+2023-02-07 21:50:34,774 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"ab335a7d-1cb4-4e1a-81e7-1b758d887ab5"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,774 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,774 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element/ab335a7d-1cb4-4e1a-81e7-1b758d887ab5/clear {"id": "ab335a7d-1cb4-4e1a-81e7-1b758d887ab5"}
+2023-02-07 21:50:34,801 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element/ab335a7d-1cb4-4e1a-81e7-1b758d887ab5/clear HTTP/1.1" 200 14
+2023-02-07 21:50:34,801 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,801 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,801 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element {"using": "css selector", "value": "[id=\"Email\"]"}
+2023-02-07 21:50:34,807 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element HTTP/1.1" 200 88
+2023-02-07 21:50:34,807 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"ab335a7d-1cb4-4e1a-81e7-1b758d887ab5"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,807 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,807 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element/ab335a7d-1cb4-4e1a-81e7-1b758d887ab5/value {"text": "admin@yourstore.com", "value": ["a", "d", "m", "i", "n", "@", "y", "o", "u", "r", "s", "t", "o", "r", "e", ".", "c", "o", "m"], "id": "ab335a7d-1cb4-4e1a-81e7-1b758d887ab5"}
+2023-02-07 21:50:34,844 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element/ab335a7d-1cb4-4e1a-81e7-1b758d887ab5/value HTTP/1.1" 200 14
+2023-02-07 21:50:34,845 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,845 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,845 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element {"using": "css selector", "value": "[id=\"Password\"]"}
+2023-02-07 21:50:34,853 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element HTTP/1.1" 200 88
+2023-02-07 21:50:34,853 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"1825891b-9222-462e-b3ce-b46689b95eee"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,853 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,853 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element/1825891b-9222-462e-b3ce-b46689b95eee/clear {"id": "1825891b-9222-462e-b3ce-b46689b95eee"}
+2023-02-07 21:50:34,881 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element/1825891b-9222-462e-b3ce-b46689b95eee/clear HTTP/1.1" 200 14
+2023-02-07 21:50:34,881 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,881 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,881 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element {"using": "css selector", "value": "[id=\"Password\"]"}
+2023-02-07 21:50:34,889 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element HTTP/1.1" 200 88
+2023-02-07 21:50:34,889 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"1825891b-9222-462e-b3ce-b46689b95eee"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,889 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,889 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element/1825891b-9222-462e-b3ce-b46689b95eee/value {"text": "admin", "value": ["a", "d", "m", "i", "n"], "id": "1825891b-9222-462e-b3ce-b46689b95eee"}
+2023-02-07 21:50:34,915 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element/1825891b-9222-462e-b3ce-b46689b95eee/value HTTP/1.1" 200 14
+2023-02-07 21:50:34,915 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,915 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,916 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element {"using": "css selector", "value": ".button-1"}
+2023-02-07 21:50:34,923 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element HTTP/1.1" 200 88
+2023-02-07 21:50:34,924 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"element-6066-11e4-a52e-4f735466cecf":"68901cbd-61d7-499e-b6f8-cb9a261a766d"}} | headers=HTTPHeaderDict({'Content-Length': '88', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:34,924 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:34,924 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/element/68901cbd-61d7-499e-b6f8-cb9a261a766d/click {"id": "68901cbd-61d7-499e-b6f8-cb9a261a766d"}
+2023-02-07 21:50:39,075 - urllib3.connectionpool - DEBUG - http://localhost:50986 "POST /session/033d954f2f4f50671e93c256a945994c/element/68901cbd-61d7-499e-b6f8-cb9a261a766d/click HTTP/1.1" 200 14
+2023-02-07 21:50:39,075 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:39,075 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:39,075 - selenium.webdriver.remote.remote_connection - DEBUG - GET http://localhost:50986/session/033d954f2f4f50671e93c256a945994c/title {}
+2023-02-07 21:50:39,080 - urllib3.connectionpool - DEBUG - http://localhost:50986 "GET /session/033d954f2f4f50671e93c256a945994c/title HTTP/1.1" 200 50
+2023-02-07 21:50:39,080 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":"Dashboard / nopCommerce administration"} | headers=HTTPHeaderDict({'Content-Length': '50', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:39,080 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:50:39,080 - root - INFO - **************** Login Page is passed ****************
+2023-02-07 21:50:39,081 - selenium.webdriver.remote.remote_connection - DEBUG - DELETE http://localhost:50986/session/033d954f2f4f50671e93c256a945994c {}
+2023-02-07 21:50:39,116 - urllib3.connectionpool - DEBUG - http://localhost:50986 "DELETE /session/033d954f2f4f50671e93c256a945994c HTTP/1.1" 200 14
+2023-02-07 21:50:39,117 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":null} | headers=HTTPHeaderDict({'Content-Length': '14', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2023-02-07 21:50:39,118 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2023-02-07 21:51:14,124 - WDM - INFO - ====== WebDriver manager ======
+2023-02-07 21:51:14,510 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-07 21:51:15,117 - WDM - INFO - Driver [C:\Users\sbenhamou.sephira\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-07 21:51:16,341 - root - INFO - **************** Test_001_Login ****************
+2023-02-07 21:51:16,341 - root - INFO - **************** Verifiying Home Page Title ****************
+2023-02-07 21:51:18,864 - root - INFO - **************** Home Page Title is passed ****************
+2023-02-07 21:51:20,951 - WDM - INFO - ====== WebDriver manager ======
+2023-02-07 21:51:21,373 - WDM - INFO - Get LATEST chromedriver version for google-chrome 109.0.5414
+2023-02-07 21:51:21,946 - WDM - INFO - Driver [C:\Users\sbenhamou.sephira\.wdm\drivers\chromedriver\win32\109.0.5414\chromedriver.exe] found in cache
+2023-02-07 21:51:23,114 - root - INFO - **************** Verifiying Login Page ****************
+2023-02-07 21:51:30,112 - root - INFO - **************** Login Page is passed ****************
